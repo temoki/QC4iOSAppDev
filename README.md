@@ -2,6 +2,10 @@
 
 [Mobile Act NAGOYA #9]() で発表したスライドとサンプルです。
 
+## スライド
+
+[QuartzComposerをiOSアプリ開発に活用する](https://github.com/temoki/QC4iOSAppDev/blob/master/Slides.pdf)
+
 ## Quartz Composer 入手先
 
 * https://developer.apple.com/download/
